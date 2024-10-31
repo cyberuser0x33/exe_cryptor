@@ -1,2 +1,4 @@
-for run
--> python main.py
+# usage
+```
+python main.py
+```
